@@ -1,0 +1,10 @@
+name: CandyTrees
+version: 1.0.0
+author: Unknowncall
+ 
+main: net.pixelcade.candytrees.CandyDriver
+ 
+commands:
+  candyadmin:
+    description: Admin command for candy trees.
+    usage: /<command>

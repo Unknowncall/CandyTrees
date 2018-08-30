@@ -1,0 +1,27 @@
+candies:
+  sweet_loops:
+    item_stack: 1 1 name:&cCandy lore:This|works|nicely.
+    effects:
+      - 'CONFUSION'
+    chance: 1
+  sour_squares:
+    item_stack: 1 1 name:&cCandy lore:This|works|nicely.
+    effects:
+      - 'CONFUSION'
+    chance: 1
+  chocolate_squres:
+    item_stack: 1 1 name:&cCandy lore:This|works|nicely.
+    effects:
+      - 'CONFUSION'
+    chance: 1
+  jelly_beans:
+    item_stack: 1 1 name:&cCandy lore:This|works|nicely.
+    effects:
+      - 'CONFUSION'
+    chance: 1
+  gummy_worms:
+    item_stack: 1 1 name:&cCandy lore:This|works|nicely.
+    effects:
+      - 'CONFUSION'
+    chance: 1
+candy_locations: []
